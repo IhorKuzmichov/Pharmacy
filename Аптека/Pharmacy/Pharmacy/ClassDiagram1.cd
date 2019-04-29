@@ -1,0 +1,61 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<ClassDiagram MajorVersion="1" MinorVersion="1">
+  <Class Name="Pharmacy.DBQueries">
+    <Position X="9.25" Y="0.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAEAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>DBQueries.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Pharmacy.CategoryForm">
+    <Position X="7.5" Y="0.5" Width="1.5" />
+    <Compartments>
+      <Compartment Name="Fields" Collapsed="true" />
+    </Compartments>
+    <TypeIdentifier>
+      <HashCode>ATAAAAAAACACABQIAACwIAACAAAAAAAAAAAIEACAAAA=</HashCode>
+      <FileName>CategoryForm.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Pharmacy.ConnectionStringForm">
+    <Position X="2.25" Y="0.5" Width="1.5" />
+    <Compartments>
+      <Compartment Name="Fields" Collapsed="true" />
+    </Compartments>
+    <TypeIdentifier>
+      <HashCode>AQAAAAAAACAAAhQAAACAAAACAAAAAAAAAAAAEACAAAA=</HashCode>
+      <FileName>ConnectionStringForm.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Pharmacy.DrugForm">
+    <Position X="4" Y="0.5" Width="1.5" />
+    <Compartments>
+      <Compartment Name="Fields" Collapsed="true" />
+    </Compartments>
+    <TypeIdentifier>
+      <HashCode>oTDAAAAgCCACABQIEACAAAACECQAAABgAAAIEAuCCAE=</HashCode>
+      <FileName>DrugForm.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Pharmacy.Form1">
+    <Position X="0.5" Y="0.5" Width="1.5" />
+    <Compartments>
+      <Compartment Name="Fields" Collapsed="true" />
+    </Compartments>
+    <TypeIdentifier>
+      <HashCode>AAAAwCAEACAACBQAEAKIgIACAgACEBkiAEASAAAgJRA=</HashCode>
+      <FileName>Form1.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Pharmacy.ManufacturerForm">
+    <Position X="5.75" Y="0.5" Width="1.5" />
+    <Compartments>
+      <Compartment Name="Fields" Collapsed="true" />
+    </Compartments>
+    <TypeIdentifier>
+      <HashCode>ATAAgCAEACQCARQIQACAAJACAAICAAAAAQAYkACASAA=</HashCode>
+      <FileName>ManufacturerForm.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Font Name="Segoe UI" Size="9" />
+</ClassDiagram>
